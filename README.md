@@ -21,10 +21,8 @@ This project implements a communication platform within a SaaS application. User
   - Email composition and sending functionality.
   - Integration with Postmarkapp.com for email communication.
 
-- **Additional Features (Optional):**
+- **Additional Features:**
   - Real-time updates of communication history.
-  - User profiles.
-  - Email organization into folders.
 
 ## Table of Contents
 
@@ -39,8 +37,8 @@ This project implements a communication platform within a SaaS application. User
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/communication-platform.git
-   cd communication-platform
+   git clone https://github.com/Eniyaval92/tensorgo-assignment.git
+   cd tensorgo-assignment
    ```
 
 2. **Install dependencies:**
